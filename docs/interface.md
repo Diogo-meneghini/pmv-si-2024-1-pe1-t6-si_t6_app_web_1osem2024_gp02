@@ -14,7 +14,7 @@ A página de seguidos permite aos usuários personalizar sua experiência de not
 
 ## User Flow
 
-![UserFlow](img/userflow_.jpg)
+![UserFlow](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t6-si_t6_app_web_1osem2024_gp02/tree/main/docs/img/userflow_.png)
 
 
 ## Wireframes
